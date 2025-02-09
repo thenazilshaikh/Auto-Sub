@@ -2,6 +2,8 @@ Auto-Subtitle Generator 🎬🔠
 Overview
 This is a Python script that automatically generates subtitles from audio using speech recognition. It is designed to work with DaVinci Resolve for seamless video editing.
 
+This script was created based on a tutorial by Tom Moroney(https://www.youtube.com/@tom-moroney), with modifications and improvements.
+
 Features
 ✅ Converts speech to text with high accuracy
 ✅ Generates subtitles for video editing
@@ -19,6 +21,8 @@ Usage:
 1) Open DaVinci Resolve.
 2) Run auto-sub.py to generate subtitles.
 3) The generated subtitles will be saved in a .srt file.
+
+
 Example Output
 1  
 00:00:01,500 --> 00:00:04,000  
